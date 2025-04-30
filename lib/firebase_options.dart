@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDUg7Fnj7ibGiAcUM38jw83IPdUFjIPwTA',
+    apiKey: '',
     appId: '1:610689278779:web:af939544ffdf8ead58cd1e',
     messagingSenderId: '610689278779',
     projectId: 'text-quiz-f0488',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDJyxOx_7bVVAiHwX-jqcZmkn9QxEXfVxA',
+    apiKey: '',
     appId: '1:610689278779:android:f53487636be4cdfb58cd1e',
     messagingSenderId: '610689278779',
     projectId: 'text-quiz-f0488',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB6cpIoo5vQ5jf2qlSSSJWd7If9m5gsnn8',
+    apiKey: '',
     appId: '1:610689278779:ios:402440dc6d521b5858cd1e',
     messagingSenderId: '610689278779',
     projectId: 'text-quiz-f0488',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB6cpIoo5vQ5jf2qlSSSJWd7If9m5gsnn8',
+    apiKey: '',
     appId: '1:610689278779:ios:402440dc6d521b5858cd1e',
     messagingSenderId: '610689278779',
     projectId: 'text-quiz-f0488',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDUg7Fnj7ibGiAcUM38jw83IPdUFjIPwTA',
+    apiKey: '',
     appId: '1:610689278779:web:5b607027862eb01458cd1e',
     messagingSenderId: '610689278779',
     projectId: 'text-quiz-f0488',
