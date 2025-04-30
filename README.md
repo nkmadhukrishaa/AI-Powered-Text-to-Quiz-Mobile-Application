@@ -1,4 +1,4 @@
-# dashboard
+# AI Powered Text to Quiz Mobile Application
 
 A new Flutter project.
 
